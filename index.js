@@ -1,4 +1,4 @@
-// Sections Animation =======================>>
+// Sections Animation ======================>>
 
 AOS.init({
   offset: window.visualViewport.width < 700 ? 35 : 280,
